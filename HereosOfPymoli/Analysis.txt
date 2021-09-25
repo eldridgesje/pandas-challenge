@@ -1,0 +1,7 @@
+Analysis of the Heroes of Pymoli purchases data reveals key insights into players who make purchases as well as the items they purchase.
+
+The great majority of players making purchases identify their gender as Male (approx. 84%). However, male players on average spent the least, both on each purchase and as individuals. Increasing the number of players of other genders could increase average revenue per purchase and per player. But these numbers should be interpreted with caution due to the relatively small number of female and other/non-disclosing players involved.
+
+Players tends to be in their early twenties (approx. 45%) or near to them. About 86% of players making purchases were between the ages of 15 and 34. Players in their early twenties also spent a relatively large amount of money on each purchase and per person, though there's no clear correlation between age and amount spent throughout the data set. The game's purchase offerings clearly target young men very effectively, currently.
+
+Certain players spend much more money on purchases than others, the top five players spend several times the per-person average. Purchases should probably target players inclined to make repeat purchases.
